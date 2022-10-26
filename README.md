@@ -3,16 +3,17 @@
 
 # Sobre o projeto
 
-Criar projeto Spring Boot Java
- Implementar modelo de domínio
- Estruturar camadas lógicas: resource, service, repository
- Configurar banco de dados de teste (H2)
- Povoar o banco de dados
- CRUD - Create, Retrieve, Update, Delete
- Tratamento de exceções
+- Criar projeto Spring Boot Java
+- Implementar modelo de domínio
+- Estruturar camadas lógicas: resource, service, repository
+- Configurar banco de dados de teste (H2)
+- Povoar o banco de dados
+- CRUD - Create, Retrieve, Update, Delete
+- Tratamento de exceções
 
 ## Modelo conceitual
-![Modelo Conceitual]
+
+![modelo de dominio SpringJPA](https://user-images.githubusercontent.com/94576358/198033210-f9ce4be9-24e6-49cf-9852-a5495542b176.PNG)
 
 # Tecnologias utilizadas
 ## Back end
