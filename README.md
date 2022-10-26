@@ -3,12 +3,17 @@
 
 # Sobre o projeto
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+- Criar projeto Spring Boot Java
+- Implementar modelo de domínio
+- Estruturar camadas lógicas: resource, service, repository
+- Configurar banco de dados de teste (H2)
+- Povoar o banco de dados
+- CRUD - Create, Retrieve, Update, Delete
+- Tratamento de exceções
 
 ## Modelo conceitual
-![Modelo Conceitual]
+
+![modelo de dominio SpringJPA](https://user-images.githubusercontent.com/94576358/198033210-f9ce4be9-24e6-49cf-9852-a5495542b176.PNG)
 
 # Tecnologias utilizadas
 ## Back end
